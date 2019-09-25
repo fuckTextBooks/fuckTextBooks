@@ -1,6 +1,8 @@
 # fuckTextBooks
 Auto searches libgen for course materials for UofT students
 
+Geckodriver is required to run: https://github.com/mozilla/geckodriver/releases
+
 
 Makes use of the uoftbookstore's service to show all course materials, then searchs the isbns through libgenapi and returns the links for each book.
 

@@ -1,0 +1,6 @@
+# fuckTextBooks requirements.txt
+bs4
+libgenapi
+selenium
+getpass
+webdriverdownloader
